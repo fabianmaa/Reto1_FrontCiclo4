@@ -1,3 +1,4 @@
+/*======== Estilos Resgistro Usuario ========*/
 body {
   font-family: "Karla", sans-serif;
   background-image: url("../img/descarga.png"), url("../img/descarga.png");
@@ -155,8 +156,8 @@ h1 .subtitle {
 
 .Formulario .btn {
   text-transform: uppercase;
-  color: #fff;
-  background-color: #000;
+  color: #f7e38b;
+  background-color: #592c8e;
 }
 .Formulario .info-text {
   text-align: center;
@@ -264,8 +265,8 @@ h1 .subtitle {
   padding: 14px 30px;
 }
 .btn:hover {
-  background-color: #140552;
-  color: #fff;
+  background-color: #64c5ef;
+  color: #592c8e;
 }
 
 .btnReg {
