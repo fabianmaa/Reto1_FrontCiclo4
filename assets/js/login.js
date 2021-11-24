@@ -61,7 +61,7 @@ function traerUsuarios() {
                                 showConfirmButton: true,
                                 confirmButtonColor: "#242729",
                                 confirmButtonText: "Aceptar",
-                                footer: "<a href='registrar.html'>o de clic aquí para registrarse</a>"
+                                footer: "<a href='registro.html'>o clic aquí para crear cuenta</a>"
                             });
                         }
                     },
@@ -77,7 +77,7 @@ function traerUsuarios() {
                     showConfirmButton: true,
                     confirmButtonColor: "#242729",
                     confirmButtonText: "Aceptar",
-                    footer: "<a href='registrar.html'>o de clic aquí para registrarse</a>"
+                    footer: "<a href='registro.html'>o clic aquí para crear cuenta</a>"
                 });
             }
         },
