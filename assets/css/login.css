@@ -1,3 +1,4 @@
+/*======== Estilos Login Usuario ========*/
 body {
   font-family: "Karla", sans-serif;
   background-image: url("../img/descarga.png"), url("../img/descarga.png");
@@ -83,19 +84,19 @@ body {
 
   .login-card .login-btn {
     padding: 13px 20px 12px;
-    background-color: #000;
+    background-color: #592c8e;
     border-radius: 15px;
     font-size: 17px;
     font-weight: bold;
     line-height: 20px;
-    color: #fff;
+    color: #f7e384;
     margin-bottom: 24px;
     text-transform: uppercase;
   }
     .login-card .login-btn:hover {
       border: 1px solid #fff;
-      background-color: #b5234a;
-      color: #fff; 
+      background-color: #64c5ef;
+      color: #592c8e; 
     }
    
   .login-card .forgot-password-link {
@@ -132,7 +133,7 @@ body {
   }
 
   .form-control.valid:focus{
-    border: 1px solid #05AE0E;
+    border: 1px solid #2fcd04;
   }
 
 @media(min-width: 768px){
